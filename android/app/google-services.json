@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "608380649607",
+    "project_id": "booktalk-fc36b",
+    "storage_bucket": "booktalk-fc36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608380649607:android:3198aefa71668705ef7822",
+        "android_client_info": {
+          "package_name": "com.seniordesign.booktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608380649607-prnepvv0tvfesl67ph84j63jbthn42td.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seniordesign.booktalk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "608380649607-j6cttino47o9t0bj2gmaoudnbhcpa295.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsod74M1xf1vFJGm6KbPlubX_UzIV8f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608380649607-j6cttino47o9t0bj2gmaoudnbhcpa295.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608380649607-ad43nv4oanfgvr2kudl9ff6rndra2j06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seniordesign.booktalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
